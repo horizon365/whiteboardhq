@@ -1,6 +1,6 @@
 export default defineAppConfig({
   general: {
-    title: 'Minted Directory',
+    title: 'Whiteboard Directory',
     logo: '',
     iconLogo: 'fluent-emoji-flat:leaf-fluttering-in-wind',
     language: 'en',
@@ -9,9 +9,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: 'Minted Directory',
-    description: 'Example Description',
-    url: 'https://example.com',
+    name: 'Whiteboard Directory',
+    description: 'Discover the best online whiteboard tools for collaboration, education, design, brainstorming, and more. Whiteboard Hub offers a comprehensive directory to help you find the perfect whiteboard solution for your needs.',
+    url: 'https://whiteboardhq.com',
     favicon: {
       image: '',
       emoji: '🍃',
@@ -57,13 +57,12 @@ export default defineAppConfig({
       labelForCard: 'Featured ✨',
     },
     tags: [
-      { name: 'SAAS', color: 'blue' },
-      { name: 'dashboard', color: 'green' },
-      { name: 'landing-page' },
-      { name: 'toolbox' },
-      { name: 'agency' },
-      { name: 'markdown-based' },
-      { name: 'basics', color: 'indigo' },
+      { name: 'no-login-signin-account', color: 'blue' },
+      { name: 'for-kids', color: 'green' },
+      { name: 'add-images' },
+      { name: 'drawing' },
+      { name: 'at-home' },
+      { name: 'working-together' },
     ],
     tagPages: {
       title: 'Available {0} products:',
@@ -74,9 +73,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: 'Create your own directory website in minutes.',
-      link: 'https://minteddirectory.com',
-      brandText: 'MintedDirectory',
+      text: 'Find your favorite whiteboard in minutes.',
+      link: 'https://whiteboardhq.com',
+      brandText: 'Whiteboard HQ',
     },
     navbar: {
       colorModeSelector: true,
@@ -84,11 +83,11 @@ export default defineAppConfig({
         { name: 'Directory', to: '/' },
         { name: 'Blog', to: '/blog' },
         { name: 'Advertise', to: '/advertise' },
-        {
-          name: 'Analytics',
-          to: 'https://us.posthog.com/shared/7dgSk4cvgNYnJwBu6R47kZXHBUBJWQ',
-          target: '_blank',
-        },
+        // {
+        //   name: 'Analytics',
+        //   to: 'https://us.posthog.com/shared/7dgSk4cvgNYnJwBu6R47kZXHBUBJWQ',
+        //   target: '_blank',
+        // },
       ],
     },
     actionButton: {
@@ -97,16 +96,14 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Best directory for my niche.",
+    description: "Best directory for whiteboard HQ.",
     navigation: [
       {
         title: "Directory", links: [{ title: "Submit", link: "/submit" }, { title: "Advertise", link: "/advertise" }],
       },
       {
         title: "Categories", links: [
-          { title: "No Login", link: "/tags/no-login" },
-          { title: "No Sign In", link: "/tags/no-sign-in" },
-          { title: "No Account", link: "/tags/no-account" },
+          { title: "No Login/SignIn/Account", link: "/tags/no-login-signin-account" },
           { title: "For Kids", link: "/tags/for-kids" },
           { title: "Add Images", link: "/tags/add-images" },
           { title: "Drawing", link: "/tags/drawing" },
@@ -135,11 +132,11 @@ export default defineAppConfig({
         icon: 'tabler:brand-instagram',
       },
       x: {
-        link: 'https://x.com/mark_bruderer',
+        link: 'https://x.com/horizon365',
         icon: 'tabler:brand-twitter',
       },
       youtube: {
-        link: 'https://www.youtube.com/@mark_hacks',
+        link: 'https://www.youtube.com/@horizon365',
         icon: 'tabler:brand-youtube',
       },
     },

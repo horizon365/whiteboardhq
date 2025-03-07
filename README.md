@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Minted Directory Template</h1>
+  <h1>Whiteboard Directory Template</h1>
   <p>Markdown driven directory template. Built with Nuxt, Nuxt Content and Tailwindcss. Optimized for SEO. Beautiful Customizable Style</p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/952a6903-841b-4102-a34b-d6f297079e03" width="85%" alt="Minted Directory Screenshot" />
+  <img src="https://github.com/user-attachments/assets/952a6903-841b-4102-a34b-d6f297079e03" width="85%" alt="Whiteboard Directory Screenshot" />
 </div>
 
 <br/>

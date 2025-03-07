@@ -19,7 +19,7 @@ Paid listings  to secure a spot in our directory by paying a fee. These listings
 ## Featured Listings
 Even in free directories, we offer featured or boosted listings. Businesses can pay for a premium position at the top of the directory, ensuring maximum visibility. Featured listings are highlighted to stand out, making it easier for potential customers to find and engage with businesses.
 
-Here’s an example of how featured listings will look to Minted Directory visitors:
+Here’s an example of how featured listings will look to Whiteboard Directory visitors:
 
 :FeatureExample
 

@@ -3,7 +3,7 @@ title: Excalidraw - A simple yet powerful online whiteboard for sketching and co
 description: Excalidraw offers a clean and straightforward interface for drawing diagrams, flowcharts, and sketches. It supports real-time collaboration and works well for both casual and professional use.
 card_image: /Excalidraw.png
 tags:
-  - no login
+  - no-login-signin-account
   - drawing
   - at-home
   - working-together
@@ -17,7 +17,7 @@ As drawing is stored as JSON, it’s also convenient to use it inside a git repo
 
 There are also some nice features like creating charts or using existing shared libraries.
 
-Website: [https://excalidraw.com/](https://excalidraw.com/)
+Website: [https://excalidraw.whiteboardhq.com/](https://excalidraw.whiteboardhq.com/)
 
 What is it?: Excalidraw is a whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel.
 

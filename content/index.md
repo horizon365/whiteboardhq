@@ -8,15 +8,11 @@ og_image:
 ::pre-render-tags
 ::
 
-# This is your brand new directory ! 👋
+# This is your whiteboard directory ! 👋
 
-You can customize this page in markdown.
-
-See the [📚 **documentation**](https://minteddirectory.com/docs) to see how to customize your landing page.
-
-Get inspired by other directories:
-+ 📗 [Nuxtjs Starters](https://nuxtstarters.com)
-+ 🏠 [FortyTwoTools](https://fortytwotools.com)
+There are the most popular whiteboard directory:
++ 📗 [No Login/Sign](/tags/no-login-signin-account)
++ 🏠 [Work at Home](/tags/at-home)
 
 ---
 
