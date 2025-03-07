@@ -104,10 +104,14 @@ export default defineAppConfig({
       },
       {
         title: "Categories", links: [
-          { title: "SAAS", link: "/tags/saas" },
-          { title: "Dashboard", link: "/tags/dashboard" },
-          { title: "Landing Page", link: "/tags/landing-page" },
-          { title: "Toolbox", link: "/tags/toolbox" },
+          { title: "No Login", link: "/tags/no-login" },
+          { title: "No Sign In", link: "/tags/no-sign-in" },
+          { title: "No Account", link: "/tags/no-account" },
+          { title: "For Kids", link: "/tags/for-kids" },
+          { title: "Add Images", link: "/tags/add-images" },
+          { title: "Drawing", link: "/tags/drawing" },
+          { title: "At Home", link: "/tags/at-home" },
+          { title: "Working Together", link: "/tags/working-together" },
         ],
       },
       {
