@@ -3,7 +3,7 @@ title: Whiteboard-online An open-source online whiteboard for quick sketches and
 description: Whiteboard-online.org is a simple tool that allows users to create a whiteboard, draw freely, and share the board with others via a link. It is ideal for quick brainstorming and educational purposes without requiring any login.
 card_image: /Whiteboard-online.png
 tags:
-  - no login
+  - no-login-signin-account
   - drawing
   - at-home
   - templates

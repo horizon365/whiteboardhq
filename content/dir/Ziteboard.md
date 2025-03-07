@@ -3,7 +3,7 @@ title: Ziteboard - An online whiteboard for visual collaboration, drawing, and b
 description: Ziteboard offers an infinite canvas for creating sketches, diagrams, and whiteboard sessions. It supports real-time collaboration without requiring an account, making it ideal for quick brainstorming and teaching sessions.
 card_image: /ziteboard.png
 tags:
-  - no login
+  - no-login-signin-account
   - drawing
   - working-together
   - at-home

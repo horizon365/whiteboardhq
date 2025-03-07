@@ -3,7 +3,7 @@ title: WhiteboardFox - An easy-to-use online whiteboard for quick sketches and r
 description: WhiteboardFox offers a simple and intuitive interface where users can draw on a virtual whiteboard and share the board with others through a link. It does not require an account to use.
 card_image: /WhiteboardFox.png
 tags:
-  - no login
+  - no-login-signin-account
   - drawing
   - at-home
   - working-together

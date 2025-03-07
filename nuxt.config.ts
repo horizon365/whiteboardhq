@@ -14,7 +14,7 @@ export default defineNuxtConfig({
   ],
   devtools: { enabled: true },
   site: {
-    url: 'https://example.com',
+    url: 'https://whiteboardhq.com',
   },
   colorMode: {
     classSuffix: '',

@@ -9,7 +9,7 @@ ogImage:
 # Advertise your new app!
 
 #description
-Reach out to thousands of boilerplate fans, indiehackers, developers, and creators who visit and explore MintedDirectory every month. By advertising your service or product here, you’ll be able to connect directly with this engaged audience. :rocket:
+Reach out to thousands of boilerplate fans, indiehackers, developers, and creators who visit and explore Whiteboard Directory every month. By advertising your service or product here, you’ll be able to connect directly with this engaged audience. :rocket:
 ::
 ---
 
@@ -30,4 +30,4 @@ Sponsors can place their brand on the homepage gaining exposure to our growing a
 
 ## Contact
 
-If you are interested in advertising on :SiteName contact us at [contact@minteddirectory.com](mailto:contact@minteddirectory.com)
+If you are interested in advertising on :SiteName contact us at [sunnylyq@163.com](mailto:sunnylyq@163.com)

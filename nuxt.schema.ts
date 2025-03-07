@@ -47,7 +47,7 @@ export default defineNuxtSchema({
           title: 'URL',
           description:
             'Base url of your website, important for the correct function of the seo module.',
-          default: 'https://example.com',
+          default: 'https://whiteboardhq.com',
         }),
         favicon: group({
           title: '',
@@ -293,7 +293,7 @@ export default defineNuxtSchema({
               type: 'string',
               title: 'Brand Text',
               description: 'Brand text for the banner.',
-              default: 'MintedDirectory',
+              default: 'WhiteboardDirectory',
             }),
           },
         }),

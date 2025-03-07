@@ -3,7 +3,7 @@ title: Whiteboard.Team - An online collaborative whiteboard that allows teams to
 description: Whiteboard.Team is a simple, easy-to-use online whiteboard that supports drawing, adding images, and sharing boards without requiring an account. It is perfect for quick team meetings and educational purposes.
 card_image: /Whiteboard-team.png
 tags:
-  - no login
+  - no-login-signin-account
   - working-together
   - drawing
   - at-home
