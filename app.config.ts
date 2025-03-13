@@ -115,7 +115,11 @@ export default defineAppConfig({
         title: "Blog", links: [{ title: "Articles", link: "/blog" }],
       },
       {
-        title: "Legal", links: [{ title: "Privacy Policy", link: "/legal/terms-of-service" }, { title: "Terms of Service", link: "/legal/privacy-policy" }],
+        title: "Legal", links: [
+            { title: "Privacy Policy", link: "/legal/terms-of-service" },
+            { title: "Terms of Service", link: "/legal/privacy-policy" },
+            { title: "Featured on Startup Fame", link: "https://startupfa.me/s/whiteboard-directory?utm_source=whiteboardhq.com" },
+        ],
       },
     ],
     socials: {
