@@ -8,18 +8,26 @@ tags:
   - working-together
 ---
 
-Summary: A free online whiteboard tool provided by TutorialsPoint for collaborative and educational purposes.
+### Summary
+  A free online whiteboard tool provided by TutorialsPoint for collaborative and educational purposes.
 
-Details: TutorialsPoint Whiteboard allows users to create drawings, add text, and collaborate on a shared whiteboard. It is suitable for teaching, presentations, and brainstorming sessions.
+### Details
+  TutorialsPoint Whiteboard allows users to create drawings, add text, and collaborate on a shared whiteboard. It is suitable for teaching, presentations, and brainstorming sessions.
 
-Website: [https://www.tutorialspoint.com/whiteboard.htm](https://www.tutorialspoint.com/whiteboard.htm)
+### Website
+  [https://www.tutorialspoint.com/whiteboard.htm](https://www.tutorialspoint.com/whiteboard.htm)
 
-What is it?: A simple and free online whiteboard tool for quick drawings and presentations.
+### What is it?
+  A simple and free online whiteboard tool for quick drawings and presentations.
 
-How to use it?: Visit the website, create a whiteboard, and use drawing tools to create and share ideas.
+### How to use it?
+  Visit the website, create a whiteboard, and use drawing tools to create and share ideas.
 
-Key Features: Drawing tools, text support, collaborative features, and free access.
+### Key Features
+  Drawing tools, text support, collaborative features, and free access.
 
-Use Cases: Best for online teaching, remote collaboration, and visual presentations.
+### Use Cases
+  Best for online teaching, remote collaboration, and visual presentations.
 
-FAQ: Is TutorialsPoint Whiteboard free? Yes, it is completely free to use.
+### FAQ
+  Is TutorialsPoint Whiteboard free? Yes, it is completely free to use.

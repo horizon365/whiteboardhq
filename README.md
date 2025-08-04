@@ -50,7 +50,8 @@ Install dependencies
 pnpm install
 ```
 
-Run the website:
+Run the ### Website
+ 
 
 ```sh
 pnpm dev

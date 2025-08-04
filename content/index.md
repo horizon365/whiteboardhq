@@ -8,15 +8,11 @@ og_image:
 ::pre-render-tags
 ::
 
-# This is your whiteboard directory ! 👋
+# The HQ for All Your Whiteboarding Needs ! 👋
 
-There are the most popular whiteboard directory:
+From online collaboration to education, explore the web’s top whiteboarding tools — all in one place.
 + 📗 [No Login/Sign](/tags/no-login-signin-account)
 + 🏠 [Work at Home](/tags/at-home)
-
----
-
-Here is your starting listings grid 👇
 
 ::search
 ::

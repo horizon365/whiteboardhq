@@ -62,7 +62,8 @@ These Terms shall be governed by and interpreted in accordance with the laws of 
 ## **9. Contact Us**
 If you have any questions about these Terms, please contact us:
 
-🌐 **Website:** [WhiteboardHQ.com]
+🌐 **### Website
+ ** [WhiteboardHQ.com]
 
 ---
 

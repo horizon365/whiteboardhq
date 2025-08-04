@@ -1,7 +1,7 @@
 export default defineAppConfig({
   general: {
-    title: 'Whiteboard Directory',
-    logo: '',
+    title: 'WhiteboardHQ',
+    logo: '/logo.jpeg',
     iconLogo: 'fluent-emoji-flat:leaf-fluttering-in-wind',
     language: 'en',
   },
@@ -9,7 +9,7 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: 'Whiteboard Directory',
+    name: 'WhiteboardHQ',
     description: 'Discover the best online whiteboard tools for collaboration, education, design, brainstorming, and more. Whiteboard Hub offers a comprehensive directory to help you find the perfect whiteboard solution for your needs.',
     url: 'https://whiteboardhq.com',
     favicon: {
@@ -96,7 +96,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Best directory for whiteboard HQ.",
+    description: "Best directory for whiteboardHQ.",
     navigation: [
       {
         title: "Directory", links: [{ title: "Submit", link: "/submit" }, { title: "Advertise", link: "/advertise" }],
