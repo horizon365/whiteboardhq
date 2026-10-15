@@ -14,7 +14,7 @@ export default defineNuxtConfig({
   ],
   devtools: { enabled: true },
   site: {
-    url: 'https://whiteboardhq.com',
+    url: 'https://whiteboard.deepthink.ltd/',
   },
   colorMode: {
     classSuffix: '',

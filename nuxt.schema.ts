@@ -47,7 +47,7 @@ export default defineNuxtSchema({
           title: 'URL',
           description:
             'Base url of your website, important for the correct function of the seo module.',
-          default: 'https://whiteboardhq.com',
+          default: 'https://whiteboard.deepthink.ltd/',
         }),
         favicon: group({
           title: '',

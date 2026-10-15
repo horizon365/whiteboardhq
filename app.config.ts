@@ -11,7 +11,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: 'WhiteboardHQ',
     description: 'Discover the best online whiteboard tools for collaboration, education, design, brainstorming, and more. Whiteboard Hub offers a comprehensive directory to help you find the perfect whiteboard solution for your needs.',
-    url: 'https://whiteboardhq.com',
+    url: 'https://whiteboard.deepthink.ltd/',
     favicon: {
       image: '',
       emoji: '🍃',
@@ -74,7 +74,7 @@ export default defineAppConfig({
     banner: {
       show: true,
       text: 'Find your favorite whiteboard in minutes.',
-      link: 'https://whiteboardhq.com',
+      link: 'https://whiteboard.deepthink.ltd/',
       brandText: 'Whiteboard HQ',
     },
     navbar: {
@@ -118,7 +118,7 @@ export default defineAppConfig({
         title: "Legal", links: [
             { title: "Privacy Policy", link: "/legal/terms-of-service" },
             { title: "Terms of Service", link: "/legal/privacy-policy" },
-            { title: "Featured on Startup Fame", link: "https://startupfa.me/s/whiteboard-directory?utm_source=whiteboardhq.com" },
+            { title: "Featured on Startup Fame", link: "https://startupfa.me/s/whiteboard-directory?utm_source=whiteboard.deepthink.ltd" },
         ],
       },
     ],

@@ -20,7 +20,7 @@ As drawing is stored as JSON, it’s also convenient to use it inside a git repo
 There are also some nice features like creating charts or using existing shared libraries.
 
 ### Website
-  [https://excalidraw.whiteboardhq.com/](https://excalidraw.whiteboardhq.com/)
+  [https://excalidraw.deepthink.ltd/](https://excalidraw.deepthink.ltd/)
 
 ### What is it?
   Excalidraw is a whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel.

@@ -1,6 +1,6 @@
 # Convert Diagrams Seamlessly: An Introduction to mermaid-to-excalidraw Tool
 
-In the realm of digital diagramming, two tools have gained significant traction among developers and designers alike: **Mermaid.js** and **Excalidraw**. While Mermaid.js is widely known for its text-based diagramming capabilities, Excalidraw offers a more visual and hand-drawn aesthetic for creative workflows. What if you could combine the power of both? Enter [**mermaid-to-excalidraw**](https://mermaid-to-excalidraw.whiteboardhq.com/), a nifty tool that bridges the gap between structured, code-generated diagrams and the freeform style of Excalidraw.
+In the realm of digital diagramming, two tools have gained significant traction among developers and designers alike: **Mermaid.js** and **Excalidraw**. While Mermaid.js is widely known for its text-based diagramming capabilities, Excalidraw offers a more visual and hand-drawn aesthetic for creative workflows. What if you could combine the power of both? Enter [**mermaid-to-excalidraw**](https://mermaid-to-excalidraw.deepthink.ltd/), a nifty tool that bridges the gap between structured, code-generated diagrams and the freeform style of Excalidraw.
 
 ## **What is mermaid-to-excalidraw?**
 
@@ -47,6 +47,6 @@ This command converts your `.mmd` (Mermaid) file into an `.excalidraw` file.
 
 ## **Final Thoughts**
 
-The [**mermaid-to-excalidraw**](https://mermaid-to-excalidraw.whiteboardhq.com/) tool offers a unique bridge between the structured world of text-based diagramming and the creative, flexible canvas of Excalidraw. It empowers users to start with precision and end with personalization, making it an invaluable addition to any workflow that involves diagrams and visual communication.
+The [**mermaid-to-excalidraw**](https://mermaid-to-excalidraw.deepthink.ltd/) tool offers a unique bridge between the structured world of text-based diagramming and the creative, flexible canvas of Excalidraw. It empowers users to start with precision and end with personalization, making it an invaluable addition to any workflow that involves diagrams and visual communication.
 
 For developers, educators, and creative professionals looking to enhance their diagramming capabilities, **mermaid-to-excalidraw** is a must-try tool. Whether you’re documenting software architecture, planning a project, or teaching a concept, this tool offers the best of both worlds.
